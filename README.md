@@ -1,2 +1,0 @@
-# nft-component-card
- 
